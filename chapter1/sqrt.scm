@@ -1,3 +1,5 @@
+#  Copyright 2012 Manu S Ajith <neo@codingarena.in>
+
 ;find the sqrt of a no using Newtons Method
 
 (define (sqrt-iter guess x) (if (good-enough? guess x) guess

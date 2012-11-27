@@ -1,3 +1,5 @@
+#  Copyright 2012 Manu S Ajith <neo@codingarena.in>
+
 (define (factorial n)
 	(if (= n 1)
 				1

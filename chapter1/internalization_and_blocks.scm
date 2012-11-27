@@ -1,3 +1,5 @@
+#  Copyright 2012 Manu S Ajith <neo@codingarena.in>
+
 (define (sqrt x)
 	(define (good-enough? guess)
 		(< (abs (- (square guess) x)) 0.001))

@@ -1,3 +1,5 @@
+#  Copyright 2012 Manu S Ajith <neo@codingarena.in>
+
 ;;;;;;;;;;;;;;;;;;;;;;
 ; learning basics in lisp
 (define (square x) (* x x)) ;square of a no
